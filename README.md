@@ -11,3 +11,8 @@ Er zijn verschillende onderdelen van de grafiek: de wereldkaart laat één van d
 Waar rekening mee gehouden moet worden, is het gebruik van verschillende datasets waardoor wellicht sommige landen andere namen gebruiken die dan niet overeenkomen met de andere datasets. Dat zou het linken van de grafieken in de weg kunnen zitten. Dat kan ik voorkomen door dezelfde standaard country codes te gebruiken voor iedere dataset.  
 
 http://gamapserver.who.int/gho/interactive_charts/mbd/life_expectancy/atlas.html laat zien wat ik voor ogen heb, ik wil alleen allerlei datasets combineren om een completer overzicht te geven. Daarbij vind ik de tabel met alle data van alle landen niet heel nuttig om zo groot te weergeven, die zou ik vervangen door een tabel per land.  
+
+Hieronder een voorlopige en een uitgebreidere schets van hoe ik hoop dat het eruit gaat zien. 
+
+![](doc/Proposal sketch.jpeg)
+![](doc/Advanced sketch.png)
